@@ -429,7 +429,7 @@ Key focus:
 
 **Dashboard Screenshot:**
 
-![Customer Analysis](powerbi/screenshots/page_3_customer_analysis.png)
+![Customer Analysis](powerbi/screenshots/customer_analysis.png)
 
 ### Page 4 — Geographical Analysis
 
