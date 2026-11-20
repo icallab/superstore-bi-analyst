@@ -23,7 +23,7 @@ The objective is to transform raw retail transaction data into meaningful busine
 13. [How to Run This Project](#13-how-to-run-this-project)
 14. [Analytical Considerations & Limitations](#14-analytical-considerations--limitations)
 15. [Future Improvements](#15-future-improvements)
-16. [Author](#16-author)
+
 
 ---
 
@@ -825,24 +825,3 @@ Potential improvements for future versions include:
 - Add more advanced statistical analysis of discount effectiveness.
 - Introduce delivery performance metrics if actual delivery dates become available.
 
-## 16. Author
-
-**Project:** Superstore Business Intelligence & Data Analytics
-
-**Focus Areas:**
-- Data Analytics
-- Exploratory Data Analysis
-- SQL Analysis
-- Business Intelligence
-- Data Visualization
-- Business Insights
-
-**Tools:** Python, PostgreSQL, SQL, DBeaver, Power BI, and GitHub.
-
----
-
-## Disclaimer
-
-This project was developed for educational purposes and as a data analytics portfolio project.
-
-The business insights and recommendations are based on the provided Sample Superstore dataset. They should be interpreted within the scope and limitations of the available data.
